@@ -38,3 +38,4 @@ set hlsearch
 syntax on
 set number
 set backspace=indent,eol,start
+vnoremap // y/<C-R>"<CR>
